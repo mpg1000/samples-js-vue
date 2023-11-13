@@ -37,10 +37,10 @@ Gather the following information from the Okta Developer Console:
 These values must exist as environment variables. They can be exported in the shell, or saved in a file named `testenv`, located in the parent directory (samples-js-vue). See [dotenv](https://www.npmjs.com/package/dotenv) for more details on this file format.
 
 ```ini
-ISSUER=https://yourOktaDomain.com/oauth2/default
-CLIENT_ID=123xxxxx123
+ISSUER=https://dev-74477291.okta.com.com/oauth2/default
+CLIENT_ID=123xx0oad8otfemFmQsmOC5d7xxx123
 ```
-
+npm 
 Now start the app server:
 
 ```
